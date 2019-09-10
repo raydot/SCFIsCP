@@ -1,2 +1,2 @@
 # SCFIsCP
-A literary coding problem.
+A literally literary coding problem.
